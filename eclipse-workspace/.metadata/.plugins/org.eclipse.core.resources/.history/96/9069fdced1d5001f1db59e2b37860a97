@@ -1,0 +1,42 @@
+package com.neotech.lesson13;
+
+import org.openqa.selenium.By;
+
+import com.neotech.utils.CommonMethods;
+
+public class Task1 extends CommonMethods {
+
+	public static void main(String[] args) {
+		/*
+	 	TC 1: Upload file and Take Screenshot
+		Navigate to "http://samples.gwtproject.org/samples/Showcase/Showcase.html#!CwFileUpload"
+		Upload file
+		Verify file got successfully uploaded and take screenshot 
+	 
+	 */
+		
+		setUp();
+		
+		click(driver.findElement(By.linkText("File Upload")));
+		
+        String filePath = System.getProperty("user.dir") + "/screenshots/Lesson13/Homework2.png";
+		
+		wait(2);
+		
+       sendText(driver.findElement(By.id("file-upload")), filePath);
+		
+		wait(4);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		tearDown();
+
+	}
+
+}

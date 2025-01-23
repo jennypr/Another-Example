@@ -1,0 +1,34 @@
+package com.neotech.lesson12;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+
+import com.neotech.utils.CommonMethods;
+
+public class ActionsClassDemo extends CommonMethods {
+
+	public static void main(String[] args) {
+		// https://www.amazon.com/
+		
+		setUp();
+		
+		Actions action = new Actions(driver);
+		
+		WebElement el=driver.findElement(By.id("nav-link-accountList"));
+		
+		//If I don't call .perform() at the end of the action, then it wont happen
+		action.moveToElement(el);
+		
+		wait(5);
+		
+		
+		
+		
+		tearDown();
+		
+		
+
+	}
+
+}

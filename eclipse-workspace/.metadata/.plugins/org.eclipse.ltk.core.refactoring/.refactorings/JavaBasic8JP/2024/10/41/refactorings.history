@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.lesson.lesson007&apos; to &apos;com.neotech.lesson007&apos;&#x0A;- Original project: &apos;JavaBasic8JP&apos;&#x0A;- Original element: &apos;JavaBasic8JP/src/com.lesson.lesson007&apos;&#x0A;- Renamed element: &apos;JavaBasic8JP/src/com.neotech.lesson007&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.lesson.lesson007&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.lesson.lesson007" name="com.neotech.lesson007" qualified="false" references="true" stamp="1728261560290" textual="false" version="1.0"/>
+</session>

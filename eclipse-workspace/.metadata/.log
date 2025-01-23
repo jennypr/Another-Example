@@ -1,0 +1,1192 @@
+!SESSION 2024-12-22 11:38:20.789 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=22.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/jennyporja/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/jennyporja/.eclipse_keyring
+
+This is a continuation of log file /Users/jennyporja/eclipse-workspace/.metadata/.bak_0.log
+Created Time: 2025-01-11 18:50:30.696
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-11 18:50:30.696
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-11 19:11:39.047
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-11 19:16:42.092
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-11 19:32:22.503
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-11 19:36:23.490
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-11 19:37:19.508
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-11 20:42:08.757
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-11 20:55:56.523
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-11 20:59:47.688
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-11 21:18:16.842
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-11 22:05:49.690
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-11 22:19:06.739
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-12 14:03:32.263
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-12 14:14:59.043
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-12 19:09:43.155
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-12 19:10:08.214
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-12 19:28:10.761
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-12 19:29:54.267
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-12 20:50:11.393
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-13 19:04:56.116
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-13 19:20:22.974
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-13 19:31:07.022
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-13 19:31:07.537
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-13 19:35:03.357
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-14 09:57:01.504
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-14 09:57:07.669
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-14 19:39:39.628
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-14 19:45:39.086
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-14 19:54:51.188
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-16 20:25:46.618
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-16 21:17:17.842
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 12:06:20.722
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 12:16:28.315
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 12:18:37.060
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 12:29:52.543
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 12:33:05.908
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 12:33:10.824
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 14:18:35.468
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 14:30:13.226
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 14:30:24.412
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 14:30:39.311
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 14:36:26.083
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 14:43:35.937
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 14:46:52.456
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 14:47:00.451
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 14:50:40.117
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 14:50:56.524
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 14:51:03.752
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 14:51:39.182
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+!SESSION 2025-01-18 15:32:32.895 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=22.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/jennyporja/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/jennyporja/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-01-18 15:32:33.908
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-01-18 15:32:34.621
+!MESSAGE Logback config file: /Users/jennyporja/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 15:32:41.006
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 15:34:38.172
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 15:34:38.679
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 15:36:20.899
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 15:38:50.974
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 15:39:58.298
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 15:39:58.807
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 15:40:31.346
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 15:40:53.071
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 15:40:53.579
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+!SESSION 2025-01-18 15:41:20.567 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=22.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/jennyporja/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/jennyporja/.eclipse_keyring -data file:/Users/jennyporja/eclipse-workspace/
+
+!ENTRY ch.qos.logback.classic 1 0 2025-01-18 15:41:21.357
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-01-18 15:41:21.960
+!MESSAGE Logback config file: /Users/jennyporja/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 15:41:24.771
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 15:43:25.218
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 15:45:54.189
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 15:47:01.072
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-18 15:50:49.103
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-21 21:31:53.761
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+!SESSION 2025-01-22 10:29:54.554 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=22.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/jennyporja/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/jennyporja/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-01-22 10:29:55.466
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-01-22 10:29:58.811
+!MESSAGE Logback config file: /Users/jennyporja/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-22 10:30:03.170
+!MESSAGE Failed to index /SeleniumReviewReview/configs/conf.properties
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:155)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:542)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-22 10:33:07.841
+!MESSAGE Invalid ZIP archive: configs/conf.properties [in SeleniumReviewReview]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:3043)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2977)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:262)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:130)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.initializePackageNames(JavaProjectElementInfo.java:276)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.getProjectCache(JavaProjectElementInfo.java:244)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.newNameLookup(JavaProjectElementInfo.java:313)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2798)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:107)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:148)
+	at org.eclipse.jdt.internal.core.CancelableNameEnvironment.<init>(CancelableNameEnvironment.java:32)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:253)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:346)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:186)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:92)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:739)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:804)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1303)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.initialReconcile(JavaReconcilingStrategy.java:189)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.initialReconcile(CompositeReconcilingStrategy.java:125)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.initialReconcile(JavaCompositeReconcilingStrategy.java:139)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:100)
+	at org.eclipse.jdt.internal.ui.text.JavaReconciler.initialProcess(JavaReconciler.java:421)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)
+
+!ENTRY org.eclipse.jdt.core 4 4 2025-01-22 10:33:07.847
+!MESSAGE Invalid ZIP archive: configs/conf.properties [in SeleniumReviewReview]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1695)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1703)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1541)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1504)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:194)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:3043)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2977)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:262)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:130)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.buildStructure(PackageFragmentRoot.java:166)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:245)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:585)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:308)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:294)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:249)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceModuleDescription(PackageFragmentRoot.java:906)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getModuleDescription(PackageFragmentRoot.java:899)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getModuleDescription(JarPackageFragmentRoot.java:319)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:128)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:148)
+	at org.eclipse.jdt.internal.core.CancelableNameEnvironment.<init>(CancelableNameEnvironment.java:32)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:253)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:346)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:186)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:92)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:739)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:804)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1303)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.initialReconcile(JavaReconcilingStrategy.java:189)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.initialReconcile(CompositeReconcilingStrategy.java:125)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.initialReconcile(JavaCompositeReconcilingStrategy.java:139)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:100)
+	at org.eclipse.jdt.internal.ui.text.JavaReconciler.initialProcess(JavaReconciler.java:421)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)

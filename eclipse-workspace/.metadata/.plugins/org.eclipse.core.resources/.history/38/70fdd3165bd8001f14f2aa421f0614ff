@@ -1,0 +1,9 @@
+package com.neotech.tests;
+
+import com.neotech.utils.CommonMethods;
+
+public class LoginPage extends CommonMethods {
+	
+	
+
+}

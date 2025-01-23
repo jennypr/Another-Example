@@ -1,0 +1,71 @@
+package com.neotech.lesson13;
+
+import java.io.File;
+import java.io.IOException;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+
+import com.google.common.io.Files;
+import com.neotech.utils.CommonMethods;
+
+public class Task1 extends CommonMethods {
+
+	public static void main(String[] args) {
+		/*
+	 	TC 1: Upload file and Take Screenshot
+		Navigate to "http://samples.gwtproject.org/samples/Showcase/Showcase.html#!CwFileUpload"
+		Upload file
+		Verify file got successfully uploaded and take screenshot 
+	 
+	 */
+		
+		setUp();
+	
+	    //You could locate any other file	
+        String filePath = System.getProperty("user.dir") + "/screenshot/Lesson13/Homework2.png";
+        
+        //send a location of the file(image) to the input element
+         sendText(driver.findElement(By.id("gwt-FileUpload")), filePath);
+		
+		wait(2);
+		
+       //Upload a file
+		click(driver.findElement(By.id("gwt-FileUpload")));
+		
+		wait(4);
+		
+		//Handle the alert
+		System.out.println("Alert text-->"+getAlertText());
+		acceptAlert(); //we could also dissmiss it
+		
+		//Take a screenshot
+		
+		//cast the driver as a TakesScreenshot object
+		TakesScreenshot ts=(TakesScreenshot) driver;
+		
+		//create the source file of the screenshot
+		File sf=ts.getScreenshotAs(OutputType.FILE);
+		
+		//now save the screenshot
+		try {
+			Files.copy(sf,new File( "screenshot/Lesson13/Homework2.png"));
+		} catch (IOException e) {
+			
+			e.printStackTrace();
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		tearDown();
+
+	}
+
+}

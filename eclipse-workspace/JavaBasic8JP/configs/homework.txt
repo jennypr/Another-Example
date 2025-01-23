@@ -1,0 +1,7 @@
+#Added phone property
+#Tue Dec 10 20:57:02 EST 2024
+browser=chrome
+password=Admin@123
+phone_number=555 756 8938
+url=neotechacademy.com
+username=neo
